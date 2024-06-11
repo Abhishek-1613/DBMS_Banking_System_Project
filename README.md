@@ -11,7 +11,7 @@ This project is a simple banking system developed using Python and MySQL, with a
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/banking-system.git
+    git clone https://github.com/Abhishek-1613/DBMS_Banking_System_Project.git
     cd banking-system
     ```
 2. Install the required packages:
